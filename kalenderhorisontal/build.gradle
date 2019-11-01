@@ -5,7 +5,7 @@ ext {
     bintrayRepo = 'maven'
     bintrayName = 'kalender-horisontal'
 
-    publishedGroupId = 'com.juris.calendarhorizontal'
+    publishedGroupId = 'juris.vassa.kalenderhorisontal'
     libraryName = 'kalender horisontal'
     artifact = 'kalenderhorisontal'
 
